@@ -7,6 +7,13 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed and notarized Markdown Editor updates. Items are added only after verification.</description>
     <language>en</language>
     <item>
+      <title>Markdown Editor 0.1.3-beta.3 (Experimental)</title>
+      <sparkle:channel>experimental</sparkle:channel>
+      <pubDate>Fri, 27 Nov 2026 06:24:05 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ronicayu/markdown-editor-downloads/releases/download/v0.1.3-beta.3/Markdown-Editor-0.1.3-beta.3-universal-macos-installer-notarized.dmg" length="8189878" type="application/x-apple-diskimage" sparkle:version="0.1.3b3" sparkle:shortVersionString="0.1.3-beta.3" sparkle:edSignature="EPZnydLrtXLjv75pj3CR3Jqzy436X7TVo7mnT3SJ+uUew7OrM079muhZ/OrfvxshCZa5f+wvb79xF4+RHHWUDA=="></enclosure>
+    </item>
+    <item>
       <title>Markdown Editor 0.1.3-beta.2 (Experimental)</title>
       <sparkle:channel>experimental</sparkle:channel>
       <pubDate>Thu, 26 Nov 2026 04:03:48 +0000</pubDate>
@@ -22,6 +29,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Tpy7ZIVGbqQOuRxyPSWGrukYS4v2LjfgnYTzPH2in7dqyh/H4Um0ocoomWsWHbX/s/lBHgZp5j4/gU+UeOprCA==
-length: 2069
+edSignature: 80+iAyzDRH55Noy6nBpQO7/mCTtqEFecbD/EANXRNSJq6oLtLcHYu0rlUapjJeRyxnWnvj1SXsVrytEGx/rKAQ==
+length: 2764
 -->
